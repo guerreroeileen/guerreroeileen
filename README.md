@@ -7,12 +7,14 @@ Passionate about learning every day and facing new challenges.
 
 ### Languages
 - Java
+- Kotlin
 - JavaScript
 - C#
 - SQL
 
 ### Frameworks
 - Spring Boot with Java
+- Spring Boot with Kotlin
 - Spring Framework
 - Android Studio with Java
 - Angular
