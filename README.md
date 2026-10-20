@@ -1,6 +1,6 @@
 # 😎About Me
 
-I am a systems engineer working as a fullstack software developer based in Colombia.
+I am a systems engineer working as a fullstack software developer based in Cali, Colombia.
 Passionate about learning every day and facing new challenges.
 
 ## 💻Tech Stack
@@ -18,6 +18,7 @@ Passionate about learning every day and facing new challenges.
 - Spring Framework
 - Android Studio with Java
 - Angular
+- React
 - .NET Framework
 
 ### Databases
@@ -28,5 +29,11 @@ Passionate about learning every day and facing new challenges.
 - MySQL
 
 #### Non-relational
-- MongoDB
 - Firebase
+- Redis
+- MongoDB
+
+## Cloud and Devops
+- AWS
+- Docker
+- Kubernetes
